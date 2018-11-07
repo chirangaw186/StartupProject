@@ -1,0 +1,15 @@
+{
+  "name": "newsirver",
+  "version": "1.0.0",
+  "description": "Node + MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chiranga Wickramasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
